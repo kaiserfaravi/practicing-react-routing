@@ -10,5 +10,9 @@ like--- const routers = createBrowserRouter([{
     element:.
     --element could be jsx or components..
 }])
+========================================================================================================================================
+things you need to create a route:
+1.create a link:so that you can go to this route
+2.create component:to what you add to show
 
 */
